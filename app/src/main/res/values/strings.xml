@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Caculator</string>
+
+    <string name="nav_standard">Standard</string>
+    <string name="nav_scientific">Scientific</string>
+    <string name="nav_programmer">Programmer</string>
+    <string name="nav_converter">Converter</string>
+    <string name="nav_currency">Currency</string>
+    
+    <string name="navigation_drawer_open">Open Navigation</string>
+    <string name="navigation_drawer_close">Close Navigation</string>
+
+<!-- Begin Standard -->
+    <string name="m">M</string>
+    <string name="DOT">.</string>
+    <string name="equal">=</string>
+    <string name="Zero">0</string>
+    <string name="change">+/-</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="add">+</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="minus">-</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button9">9</string>
+    <string name="multi">x</string>
+    <string name="button8">8</string>
+    <string name="daoNguoc">1/x</string>
+    <string name="square">x^2</string>
+    <string name="unit">√(x)</string>
+    <string name="devine">÷</string>
+    <string name="mod">%</string>
+    <string name="CE">CE</string>
+    <string name="del">DEL</string>
+    <string name="c">C</string>
+    <string name="mr">MR</string>
+    <string name="mAdd">M+</string>
+    <string name="mc">MC</string>
+    <string name="mMinus">M-</string>
+    <string name="ms">MS</string>
+    <string name="ln">ln</string>
+    <string name="log">log</string>
+    <string name="b10">10^x</string>
+    <string name="mu">x^y</string>
+    <string name="close">)</string>
+    <string name="factoria">n!</string>
+    <string name="open">(</string>
+    <string name="exp">exp</string>
+    <string name="abs">|x|</string>
+    <string name="nd">2nd</string>
+    <string name="pi">π</string>
+    <string name="e">e</string>
+    <string name="left"><![CDATA[<<]]></string>
+    <string name="right"><![CDATA[>>]]></string>
+    <!-- End Standard -->
+
+    <string-array name="currencies1">
+        <item>DNG</item>
+
+        <item>GBP</item>
+        <item>USD</item>
+        <item>DKK</item>
+        <item>SEK</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>JPY</item>
+    </string-array>
+
+    <string-array name="currencies2">
+        <item>USD</item>
+
+        <item>GBP</item>
+        <item>DNG</item>
+        <item>DKK</item>
+        <item>SEK</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>JPY</item>
+    </string-array>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_standard"
+            android:title="@string/nav_standard"
+            android:icon="@drawable/ic_caculator"/>
+
+        <item android:id="@+id/nav_scientific"
+            android:title="@string/nav_scientific"
+            android:icon="@drawable/ic_science"/>
+
+        <item android:id="@+id/nav_programmer"
+            android:title="@string/nav_programmer"
+            android:icon="@drawable/ic_program"/>
+
+    </group>
+
+    <item android:title="@string/nav_converter">
+        <menu>
+            <item android:id="@+id/nav_currency"
+                android:title="@string/nav_currency"
+                android:icon="@drawable/ic_currency"/>
+
+        </menu>
+    </item>
+</menu>
